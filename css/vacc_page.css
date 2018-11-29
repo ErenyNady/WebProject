@@ -1,0 +1,12 @@
+body{
+	background-color:#c0c0c0; 
+}
+h1{
+	font-style: italic;
+	color: #008080;
+}
+h2{
+	color: #400080;
+}
+.pagination{
+	background-color:#00b3b3;
