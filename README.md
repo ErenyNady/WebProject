@@ -7,10 +7,10 @@ Finding appropriate and affordable child care is often a challenge. There are di
 
 This document has been designed as a guide to help parents and other interested parties sort through the various issues involved in selecting and locating child care options. It begins by describing the different factors that each family must consider in selecting care. Next, the various types of care available are described. A discussion of the factors that states typically consider in licensing care facilities follows, as does a list of conditions that families should consider while evaluating care facilities. The document ends with further discussion of the issues that can arise during the family's transition into childcare.
 
-##screen from website:
+## screen from website:
 
-![home page](doc\1.png)
-![Baby Food](doc\2.png)
-![More Common Diseases](doc\3.png)
-![Baby Vaccinations](doc\4.png)
-![Baby Normal Weight](doc\5.png)
+![home page](doc/1.png)
+![Baby Food](doc/2.png)
+![More Common Diseases](doc/3.png)
+![Baby Vaccinations](doc/4.png)
+![Baby Normal Weight](doc/5.png)
